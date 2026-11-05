@@ -1,0 +1,15 @@
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\bin\Debug\net10.0\ExRoadTripCost.exe
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\bin\Debug\net10.0\ExRoadTripCost.deps.json
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\bin\Debug\net10.0\ExRoadTripCost.runtimeconfig.json
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\bin\Debug\net10.0\ExRoadTripCost.dll
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\bin\Debug\net10.0\ExRoadTripCost.pdb
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\ExRoadTripCost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\ExRoadTripCost.AssemblyInfoInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\ExRoadTripCost.AssemblyInfo.cs
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\ExRoadTripCost.csproj.CoreCompileInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\ExRoadTripCost.dll
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\refint\ExRoadTripCost.dll
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\ExRoadTripCost.pdb
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\ExRoadTripCost.genruntimeconfig.cache
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\ref\ExRoadTripCost.dll
+C:\Users\roxas\Desktop\Homework05\ExRoadTripCost\ExRoadTripCost\obj\Debug\net10.0\ExRoadTr.4FDEAD4D.Up2Date

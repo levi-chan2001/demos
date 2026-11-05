@@ -1,0 +1,15 @@
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\bin\Debug\net10.0\ExPetAdoption.exe
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\bin\Debug\net10.0\ExPetAdoption.deps.json
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\bin\Debug\net10.0\ExPetAdoption.runtimeconfig.json
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\bin\Debug\net10.0\ExPetAdoption.dll
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\bin\Debug\net10.0\ExPetAdoption.pdb
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\ExPetAdoption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\ExPetAdoption.AssemblyInfoInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\ExPetAdoption.AssemblyInfo.cs
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\ExPetAdoption.csproj.CoreCompileInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\ExPetAdoption.dll
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\refint\ExPetAdoption.dll
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\ExPetAdoption.pdb
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\ExPetAdoption.genruntimeconfig.cache
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\ref\ExPetAdoption.dll
+C:\Users\roxas\Desktop\Homework05\ExPetAdoption\ExPetAdoption\obj\Debug\net10.0\ExPetAdo.D5078C2E.Up2Date

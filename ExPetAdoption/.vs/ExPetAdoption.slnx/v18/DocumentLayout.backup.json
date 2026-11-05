@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roxas\\Desktop\\Homework05\\ExPetAdoption\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B169886-6C5F-8C20-9557-F7CE611365CC}|ExPetAdoption\\ExPetAdoption.csproj|c:\\users\\roxas\\desktop\\homework05\\expetadoption\\expetadoption\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B169886-6C5F-8C20-9557-F7CE611365CC}|ExPetAdoption\\ExPetAdoption.csproj|solutionrelative:expetadoption\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roxas\\Desktop\\Homework05\\ExPetAdoption\\ExPetAdoption\\Program.cs",
+              "RelativeDocumentMoniker": "ExPetAdoption\\Program.cs",
+              "ToolTip": "C:\\Users\\roxas\\Desktop\\Homework05\\ExPetAdoption\\ExPetAdoption\\Program.cs*",
+              "RelativeToolTip": "ExPetAdoption\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T13:23:33.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

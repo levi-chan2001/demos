@@ -1,0 +1,15 @@
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\bin\Debug\net10.0\ExMovieMarathon.exe
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\bin\Debug\net10.0\ExMovieMarathon.deps.json
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\bin\Debug\net10.0\ExMovieMarathon.runtimeconfig.json
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\bin\Debug\net10.0\ExMovieMarathon.dll
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\bin\Debug\net10.0\ExMovieMarathon.pdb
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\ExMovieMarathon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\ExMovieMarathon.AssemblyInfoInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\ExMovieMarathon.AssemblyInfo.cs
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\ExMovieMarathon.csproj.CoreCompileInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\ExMovieMarathon.dll
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\refint\ExMovieMarathon.dll
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\ExMovieMarathon.pdb
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\ExMovieMarathon.genruntimeconfig.cache
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\ref\ExMovieMarathon.dll
+C:\Users\roxas\Desktop\Homework05\ExMovieMarathon\ExMovieMarathon\obj\Debug\net10.0\ExMovieM.A7B81952.Up2Date
