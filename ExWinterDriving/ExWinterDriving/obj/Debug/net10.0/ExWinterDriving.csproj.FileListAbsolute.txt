@@ -1,0 +1,16 @@
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ExWinterDriving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ExWinterDriving.AssemblyInfoInputs.cache
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ExWinterDriving.AssemblyInfo.cs
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ExWinterDriving.csproj.CoreCompileInputs.cache
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ExWinterDriving.sourcelink.json
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\bin\Debug\net10.0\ExWinterDriving.exe
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\bin\Debug\net10.0\ExWinterDriving.deps.json
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\bin\Debug\net10.0\ExWinterDriving.runtimeconfig.json
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\bin\Debug\net10.0\ExWinterDriving.dll
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\bin\Debug\net10.0\ExWinterDriving.pdb
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ExWinterDriving.dll
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\refint\ExWinterDriving.dll
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ExWinterDriving.pdb
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ExWinterDriving.genruntimeconfig.cache
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ref\ExWinterDriving.dll
+C:\Users\Roxas\Documents\demos\demos\ExWinterDriving\ExWinterDriving\obj\Debug\net10.0\ExWinter.BC537D17.Up2Date

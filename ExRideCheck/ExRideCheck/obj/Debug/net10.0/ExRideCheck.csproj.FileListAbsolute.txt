@@ -1,0 +1,16 @@
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\bin\Debug\net10.0\ExRideCheck.exe
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\bin\Debug\net10.0\ExRideCheck.deps.json
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\bin\Debug\net10.0\ExRideCheck.runtimeconfig.json
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\bin\Debug\net10.0\ExRideCheck.dll
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\bin\Debug\net10.0\ExRideCheck.pdb
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ExRideCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ExRideCheck.AssemblyInfoInputs.cache
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ExRideCheck.AssemblyInfo.cs
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ExRideCheck.csproj.CoreCompileInputs.cache
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ExRideCheck.sourcelink.json
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ExRideCheck.dll
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\refint\ExRideCheck.dll
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ExRideCheck.pdb
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ExRideCheck.genruntimeconfig.cache
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ref\ExRideCheck.dll
+C:\Users\Roxas\Documents\demos\demos\ExRideCheck\ExRideCheck\obj\Debug\net10.0\ExRideCh.F95A7999.Up2Date

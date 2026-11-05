@@ -1,0 +1,16 @@
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\bin\Debug\net10.0\ExSkiPass.exe
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\bin\Debug\net10.0\ExSkiPass.deps.json
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\bin\Debug\net10.0\ExSkiPass.runtimeconfig.json
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\bin\Debug\net10.0\ExSkiPass.dll
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\bin\Debug\net10.0\ExSkiPass.pdb
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ExSkiPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ExSkiPass.AssemblyInfoInputs.cache
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ExSkiPass.AssemblyInfo.cs
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ExSkiPass.csproj.CoreCompileInputs.cache
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ExSkiPass.sourcelink.json
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ExSkiPass.dll
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\refint\ExSkiPass.dll
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ExSkiPass.pdb
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ExSkiPass.genruntimeconfig.cache
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ref\ExSkiPass.dll
+C:\Users\Roxas\Documents\demos\demos\ExSkiPass\ExSkiPass\obj\Debug\net10.0\ExSkiPass.csproj.Up2Date
