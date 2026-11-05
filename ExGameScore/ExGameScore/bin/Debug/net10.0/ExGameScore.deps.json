@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExGameScore/1.0.0": {
+        "runtime": {
+          "ExGameScore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExGameScore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

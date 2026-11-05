@@ -1,0 +1,15 @@
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\bin\Debug\net10.0\ExGameScore.exe
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\bin\Debug\net10.0\ExGameScore.deps.json
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\bin\Debug\net10.0\ExGameScore.runtimeconfig.json
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\bin\Debug\net10.0\ExGameScore.dll
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\bin\Debug\net10.0\ExGameScore.pdb
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\ExGameScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\ExGameScore.AssemblyInfoInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\ExGameScore.AssemblyInfo.cs
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\ExGameScore.csproj.CoreCompileInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\ExGameScore.dll
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\refint\ExGameScore.dll
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\ExGameScore.pdb
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\ExGameScore.genruntimeconfig.cache
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\ref\ExGameScore.dll
+C:\Users\roxas\Desktop\Homework05\ExGameScore\ExGameScore\obj\Debug\net10.0\ExGameSc.8136E2A7.Up2Date
