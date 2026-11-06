@@ -1,0 +1,15 @@
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\bin\Debug\net10.0\ExStepChallenge.exe
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\bin\Debug\net10.0\ExStepChallenge.deps.json
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\bin\Debug\net10.0\ExStepChallenge.runtimeconfig.json
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\bin\Debug\net10.0\ExStepChallenge.dll
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\bin\Debug\net10.0\ExStepChallenge.pdb
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\ExStepChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\ExStepChallenge.AssemblyInfoInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\ExStepChallenge.AssemblyInfo.cs
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\ExStepChallenge.csproj.CoreCompileInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\ExStepChallenge.dll
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\refint\ExStepChallenge.dll
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\ExStepChallenge.pdb
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\ExStepChallenge.genruntimeconfig.cache
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\ref\ExStepChallenge.dll
+C:\Users\roxas\Desktop\Homework05\ExStepChallenge\ExStepChallenge\obj\Debug\net10.0\ExStepCh.44FD9441.Up2Date

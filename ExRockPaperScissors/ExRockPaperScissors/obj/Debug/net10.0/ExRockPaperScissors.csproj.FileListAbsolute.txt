@@ -1,0 +1,15 @@
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\bin\Debug\net10.0\ExRockPaperScissors.exe
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\bin\Debug\net10.0\ExRockPaperScissors.deps.json
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\bin\Debug\net10.0\ExRockPaperScissors.runtimeconfig.json
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\bin\Debug\net10.0\ExRockPaperScissors.dll
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\bin\Debug\net10.0\ExRockPaperScissors.pdb
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\ExRockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\ExRockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\ExRockPaperScissors.AssemblyInfo.cs
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\ExRockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\ExRockPaperScissors.dll
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\refint\ExRockPaperScissors.dll
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\ExRockPaperScissors.pdb
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\ExRockPaperScissors.genruntimeconfig.cache
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\ref\ExRockPaperScissors.dll
+C:\Users\roxas\Desktop\Homework05\ExRockPaperScissors\ExRockPaperScissors\obj\Debug\net10.0\ExRockPa.4A4D5A82.Up2Date
